@@ -1,0 +1,25 @@
+{
+  "name": "trd-trabalho",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.15",
+    "vite": "4.4.9"
+  },
+  "scripts": {
+    "app": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroAntunesB/TRD-trabalho.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PedroAntunesB/TRD-trabalho/issues"
+  },
+  "homepage": "https://github.com/PedroAntunesB/TRD-trabalho#readme"
+}
